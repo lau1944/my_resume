@@ -1,0 +1,13 @@
+.introduction {
+  text-align: center;
+  display: block;
+}
+
+.introduction-text {
+  margin-bottom: 0;
+  font-size: 20px;
+  letter-spacing: 2px ;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+}
